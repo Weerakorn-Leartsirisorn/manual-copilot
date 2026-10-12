@@ -1,0 +1,8 @@
+gradio>=5.0
+openai>=1.40
+pypdf>=4.0
+numpy>=1.26
+# only for scripts/
+reportlab>=4.0
+fastapi>=0.110
+uvicorn>=0.29
